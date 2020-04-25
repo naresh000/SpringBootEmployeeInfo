@@ -16,4 +16,6 @@ http://localhost:8080/api/v1/employees?pageSize=50&pageNumber=2
 
 Get Employee by id end point
 
+http://localhost:8080/api/v1/employees/{employee_id}
+eg.
 http://localhost:8080/api/v1/employees/100001
